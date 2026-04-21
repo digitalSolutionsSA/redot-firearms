@@ -43,9 +43,9 @@ export default function About() {
             background: 'var(--dark-2)',
           }}>
             <img
-              src="https://images.unsplash.com/photo-1544965503-7ad532510a76?w=800&q=80"
+              src="/training.jpg"
               alt="Professional firearm training at Redot Firearm Solutions"
-              style={{ width: '100%', height: '100%', objectFit: 'cover', filter: 'brightness(0.8) saturate(0.7)' }}
+              style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center top', filter: 'brightness(0.85) saturate(0.85)' }}
             />
             {/* Red overlay accent */}
             <div style={{
